@@ -1,0 +1,21 @@
+SIMT - Electro Group
+Day 1 Resources 
+
+1. Download the arduino software to your computer 
+	(This is how to program and control the arduino)
+	http://arduino.cc
+
+2. Download Fritzing
+	(This is the schematics for the arduino)
+	http://fritzing.org/download/
+
+3. Download Max/MSP 
+	(This will allow us to get data in/out of the computer)
+		(Among other things)
+		Full program on 30-trial license 
+			http://cycling74.com/downloads/
+	(OR!)	
+		Runtime environment 
+			http://cycling74.com/downloads/runtime/
+
+
